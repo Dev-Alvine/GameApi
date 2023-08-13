@@ -2,9 +2,9 @@
 An app that consumes a gaming API and returns a list of games built with Jetpack Compose, a modern UI toolkit for building native Android apps. The app allows users to easily browse and discover new games to play.
 
 ## Libraries
-  ### Retrofit2
-  ### ViewModel
-  ### Dagger Hilt
+  #### >Retrofit2
+  #### >ViewModel
+  #### >Dagger Hilt
 ## Features
 Show a list of games and Description
 ## API Reference
