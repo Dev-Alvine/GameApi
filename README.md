@@ -1,5 +1,5 @@
 # GameApi
-An app that consumes a gaming API and returns a list of games built with Jetpack Compose, a modern UI toolkit for building native Android apps. The app allows users to easily browse and discover new games to play.
+An app that consumes a gaming API and returns a list of games built with Jetpack Compose, a modern UI toolkit for building native Android apps. The app allows users to easily browse and discover new games to play. Fork and Clone it into your machine 
 
 ## Libraries
   #### >Retrofit2
